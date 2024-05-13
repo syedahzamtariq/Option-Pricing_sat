@@ -1,0 +1,1 @@
+This project explores option pricing methods: starting from european options to american and Asian options. Non-Linear Solvers (Newton-Raphson and Bisection Method) and methods for implemeting delta, gamma and vega calcualtion have also been implemented.
